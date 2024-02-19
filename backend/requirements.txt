@@ -1,0 +1,5 @@
+Flask
+pymongo
+Flask-PyMongo
+regex
+flask_cors
